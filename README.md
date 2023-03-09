@@ -173,7 +173,9 @@ Now inside your VM desktop search for Event Viewer, click on Windows Logs and th
  
  
   <img src="https://i.imgur.com/cBBVhRi.png" width="80%" alt="Disk Sanitization Steps"/>
-
+  
+ - <b> After a few hours:
+  <img src="https://i.imgur.com/OfcCSWq.jpg" width="80%" alt="Disk Sanitization Steps"/>
  
  
  
